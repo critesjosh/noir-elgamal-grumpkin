@@ -1,7 +1,6 @@
 [package]
 name = "noir_elgamal_grumpkin"
 type = "lib"
-authors = ["critesjosh"]
 description = "ElGamal encryption on Grumpkin (Noir's native embedded curve) for mental poker and threshold encryption"
 
 [dependencies]
